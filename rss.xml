@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Astrology readings]]></title>
         <description><![CDATA[Astrology readings]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/astrology-readings/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 18 Mar 2016 08:37:30 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 18 Mar 2016 08:44:00 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/astrology-readings/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Advanced Vedic Astrology Course taught by Michael Conneely M.A. Oxon.]]></title>
+            <description><![CDATA[<article><h1>Advanced Vedic Astrology Course taught by Michael Conneely M.A. Oxon.</h1><p>This is the Level 3 Advanced Techniques course. There are three levels to my vedic astrology course in total. Each level is caring and learned and is taught worldwide. A Full set of Webinars comes with each Level, within the price. The amount of Tutor care and individual attention to course members is exceptional.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/aa66ceeb9699a113c8cb73f524343b6fc12077da.jpg"></article>]]></description>
+            <link>http://www.advancedvedicastrologycourse.com/</link>
+            <guid isPermaLink="false">2c02dd1d-cf48-4ff7-b96c-7b5fb7c87c44</guid>
+            <pubDate>Fri, 18 Mar 2016 08:43:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Learn Vedic Astrology]]></title>
             <description><![CDATA[<article><h1>Learn Vedic Astrology</h1><p>The Master Vedic Astrology Course taught by Michael Conneely ​Do you wish to Learn Vedic Astrology ? I offer three insightful courses into the study of Vedic Astrology: for you to learn Vedic Astrology and some of the subject's deepest secrets.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e81facfbb9f3c11731094780bfb839597e0429c1.jpg"></article>]]></description>
