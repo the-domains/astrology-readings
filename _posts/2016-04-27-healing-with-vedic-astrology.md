@@ -16,14 +16,16 @@ keywords:
   - trapped
   - maggie
 description: Vedic astrology courses with healing and empowerment from Michael Conneely.
-datePublished: '2016-04-27T08:09:00.511Z'
-dateModified: '2016-04-27T08:08:28.414Z'
+datePublished: '2016-04-29T07:08:51.762Z'
+dateModified: '2016-04-29T07:08:51.355Z'
 author:
   - name: ''
     url: ''
 related: []
 app_links: []
 title: Healing with Vedic Astrology
+sourcePath: _posts/2016-04-27-healing-with-vedic-astrology.md
+published: true
 authors: []
 publisher:
   name: Master Vedic Astrology
@@ -31,8 +33,6 @@ publisher:
   url: 'http://www.mastervedicastrology.com'
   favicon: 'http://www.mastervedicastrology.com/favicon.ico'
 starred: false
-sourcePath: _posts/2016-04-27-healing-with-vedic-astrology.md
-published: true
 _context: 'http://schema.org'
 _type: MediaObject
 
