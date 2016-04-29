@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'https://shop.starwheelastrology.com'
   name: Starwheel Astrology
-  favicon: 'https://cdn.shopify.com/s/files/1/1172/7080/t/2/assets/favicon.ico?4344372009644937315'
   domain: shop.starwheelastrology.com
+  url: 'https://shop.starwheelastrology.com'
+  favicon: 'https://cdn.shopify.com/s/files/1/1172/7080/t/2/assets/favicon.ico?4344372009644937315'
 keywords:
   - michael
   - astrology
@@ -22,14 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'https://shop.starwheelastrology.com/'
 title: "Michael Conneely's Shop, Buy Astrology Readings and Astrology Courses"
-datePublished: '2016-04-27T07:45:14.688Z'
-dateModified: '2016-03-18T08:54:15.858Z'
-starred: false
+datePublished: '2016-04-29T07:25:43.438Z'
+dateModified: '2016-04-27T07:45:34.572Z'
 sourcePath: _posts/2016-04-27-michael-conneelys-shop-buy-astrology-readings-and-astrolog.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+authors: []
+starred: true
 _context: 'http://schema.org'
 _type: MediaObject
 
