@@ -1,20 +1,4 @@
-name: Astrology readings
-favicon: null
-layout_spectrum: 0.5833
 typography_spectrum: 0.57091
-title: Astrology Courses and Readings from Michael Conneely
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: UA-40654174-2
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ffffff'
@@ -26,4 +10,24 @@ color:
   lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.5833
+analytics:
+  google: UA-40654174-2
+  facebook: null
+  twitter: null
+name: Astrology readings
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Learn Vedic Astrology
+    id: 62abad9e-5de9-48b3-ab28-0f314c1a58c8
+    type: content
+favicon: null
+title: Astrology Courses and Readings from Michael Conneely
 purpose: []
