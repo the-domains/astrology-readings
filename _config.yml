@@ -19,6 +19,10 @@ analytics:
   google: UA-40654174-2
   facebook: null
   twitter: null
+author:
+  name: Michael Conneely
+  email: michaelconneely@gmail.com
+  url: 'http://www.starwheelastrology.com/'
 name: Astrology readings
 cta:
   domain: null
